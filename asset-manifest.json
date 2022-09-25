@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Crypto-NFTs/static/css/main.2ccd28f7.chunk.css",
-    "main.js": "/Crypto-NFTs/static/js/main.7d1d1e74.chunk.js",
-    "main.js.map": "/Crypto-NFTs/static/js/main.7d1d1e74.chunk.js.map",
+    "main.js": "/Crypto-NFTs/static/js/main.cf7b267a.chunk.js",
+    "main.js.map": "/Crypto-NFTs/static/js/main.cf7b267a.chunk.js.map",
     "runtime-main.js": "/Crypto-NFTs/static/js/runtime-main.549817fe.js",
     "runtime-main.js.map": "/Crypto-NFTs/static/js/runtime-main.549817fe.js.map",
     "static/js/2.f44d2d5b.chunk.js": "/Crypto-NFTs/static/js/2.f44d2d5b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.549817fe.js",
     "static/js/2.f44d2d5b.chunk.js",
     "static/css/main.2ccd28f7.chunk.css",
-    "static/js/main.7d1d1e74.chunk.js"
+    "static/js/main.cf7b267a.chunk.js"
   ]
 }
